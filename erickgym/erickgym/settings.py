@@ -27,8 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['erickgym1.onrender.com']
 #
-CORS_ALLOWED_ORIGINS = ['https://erickgym1.onrender.com']
-
+CORS_ALLOWED_ORIGINS = ['https://erickgym1.vercel.app']
 
 # Application definition
 
