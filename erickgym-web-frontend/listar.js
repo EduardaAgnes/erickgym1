@@ -1,4 +1,4 @@
-const API_URL = 'https://dpg-cnstgei1hbls73crhceg-a.oregon-postgres.render.com'
+const API_URL = 'https://erickgym1.onrender.com/exercicios/'
 
 const cx_nome = document.getElementById('cx-nome')
 const cx_sexo = document.getElementById('cx-sexo')
