@@ -1,4 +1,4 @@
-const API_URL = 'https://dpg-cnstgei1hbls73crhceg-a.oregon-postgres.render.com'
+const API_URL = 'https://erickgym1.onrender.com/exercicios/'
 
 function main(){
     const btn_salvar = document.getElementById('btnsalvar')
